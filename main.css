@@ -318,6 +318,14 @@
 
   }
 
+  label5{
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  color: #4d4d4d;
+
+  }
+
   .description{
     font-weight: normal;
   }
@@ -401,19 +409,10 @@
     text-align: left;
   }
 
-  .contact img{
-    width: 90px;
-    height: 100px;
-  }
+
 
   .contact{
-    text-align: left;
-  }
-
-  .contact .description{
-    text-transform: none;
-    letter-spacing: normal;
-    font-size: 12px;
+    text-align: center;
   }
 
 
