@@ -289,14 +289,14 @@ h4 {
     border-width: 1px;
     border-color: #e2e2e2;
     height: 200px;
-    padding: 50px;
+    padding-top: 50px;
     margin: 10px;
 }
 
 .tile #caption{
     color: #e2e2e2;
     font-family: 'Cedarville Cursive';
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .tile:hover{
