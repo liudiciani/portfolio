@@ -70,6 +70,23 @@ a:hover {
 .row.no-gutter {
     margin-left: 0;
     margin-right: 0;
+    padding: 20px;
+}
+
+.relevantJobs .row:hover{
+    background-color: #e2e2e2;
+}
+
+.conferences .row:hover{
+    background-color: #e2e2e2;
+}
+
+.degree .row:hover{
+    background-color: #e2e2e2;
+}
+
+.clubsAndOrgs .row:hover{
+    background-color: #e2e2e2;
 }
 
 
@@ -193,6 +210,7 @@ hr {
     display: block;
     height: 0px;
     border: .3px solid #cccccc;
+    width: 30%;
 }
 
 h4 {
